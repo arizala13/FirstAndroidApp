@@ -1,0 +1,1 @@
+This is the first android application in the pluralsight learning course "Understanding Android Application Basics" by Jim Wilson."
